@@ -6,7 +6,7 @@
 				
 				System.out.println("Teste executado!");
 				
-				
+				System.out.println("ok!");
 				
 		}
 			
